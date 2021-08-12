@@ -2,7 +2,8 @@
 **Note: The full project report can be found in a pdf [here](https://drive.google.com/file/d/1MAm7GADYjwFu6rmf1gTYv2ED-k07_NgW/view?usp=sharing)**  
   
 
-A program for predicting the stock price of any stock or index available on Yahoo Finance
+A program for predicting the stock price of any stock or index 
+* Researched which source I could gather exchange rate data from. Yahoo finance API was discontinued so used a community built library to connect to Yahoo Finance historical data
 * Cleaned and preprocessed the data, ready for input into the model
 * Used StandardScaler() to standardize data
 * Predicted the stock price of Facebook between 2017 and 2020 using a LSTM neural network (with the help of tensorflow and keras libraries)
