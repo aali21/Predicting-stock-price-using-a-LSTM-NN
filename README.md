@@ -1,5 +1,5 @@
 # Predicting-stock-price-using-a-LSTM-NN
-**Note: The full project report can be found in a pdf [here](https://drive.google.com/file/d/1MAm7GADYjwFu6rmf1gTYv2ED-k07_NgW/view?usp=sharing)**  
+**Note: Part of a neural networks project. The full report can be found in a pdf [here](https://drive.google.com/file/d/1MAm7GADYjwFu6rmf1gTYv2ED-k07_NgW/view?usp=sharing)**  
   
 
 A program for predicting the stock price of any stock or index 
